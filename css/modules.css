@@ -1,0 +1,48 @@
+#a{
+  background:blue;
+  height:75px;
+}
+
+#b{
+  background:red;
+  height:150px;
+}
+
+#c{
+  background: yellow;
+  height:125px;
+}
+
+#d{
+  background:green;
+  height:125px;
+}
+
+#e{
+  background:orange;
+  height:250px;
+  width:240px;
+}
+
+#f{
+  background:purple;
+  height:250px;
+  width:240px;
+}
+
+#g{
+  background: teal;
+  height:250px;
+  width:240px;
+}
+
+#h{
+  background: coral;
+  height:250px;
+  width:240px;
+}
+
+#i{
+  background: gray;
+  height:80px;
+}
