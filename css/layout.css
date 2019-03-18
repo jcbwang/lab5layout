@@ -1,0 +1,53 @@
+#section1{
+  display:flex;
+}
+
+#section2{
+  display:flex;
+}
+
+@media(min-width:767px){
+  body,main{
+    height:768px;
+    width:960px;
+  }
+
+#a{
+  height:100px
+}
+#b{
+  height:600px;
+  width:200px;
+}
+#c{
+  height:200px;
+  width:380px;
+}
+#d{
+  height:200px;
+  width:380px;
+}
+#e,#f,#g,#h{
+  height:250px;
+  width:190px;
+}
+#i{
+  width:760px;
+  height:150px;
+}
+
+#cnextod{
+  display:flex;
+}
+
+#efgh{
+  display:flex;
+}
+/* /* #sectiona{
+  display:flex;
+} */
+
+#sectionb{
+  display:flex;
+}   
+}
