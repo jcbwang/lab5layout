@@ -6,7 +6,7 @@
   display:flex;
 }
 
-@media(min-width:767px){
+@media (min-width:767px){
   body,main{
     height:768px;
     width:960px;
