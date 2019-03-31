@@ -11,6 +11,23 @@
     height:768px;
     width:960px;
   }
+main{
+  display:flex;
+  flex-direction: column;
+  margin-left:10%;
+}
+
+#bottom{
+  display:flex;
+}
+
+#cd{
+  display:flex;
+}
+
+#efgh{
+  display:flex;
+}
 
 #a{
   height:100px
@@ -36,18 +53,5 @@
   height:150px;
 }
 
-#cnextod{
-  display:flex;
-}
 
-#efgh{
-  display:flex;
-}
-/* /* #sectiona{
-  display:flex;
-} */
-
-#sectionb{
-  display:flex;
-}   
 }
